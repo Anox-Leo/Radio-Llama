@@ -1,6 +1,8 @@
 # 🦙 Radio Llama
 
-Radio Llama is an application that generates personalized audio content using generative AI. From AI-generated radio with your playlists to interactive storytelling, Radio Llama offers a unique and dynamic listening experience. This project was developed during the Shift - Generative AI hackathon
+Radio Llama is an application that generates personalized audio content using generative AI. From AI-generated radio with your playlists to interactive storytelling, Radio Llama offers a unique and dynamic listening experience. 
+
+This project was developed during the Shift - Generative AI hackathon
  
 ## 📸 Preview
 
